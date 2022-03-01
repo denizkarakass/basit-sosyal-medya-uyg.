@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `full_name`, `email`, `password`, `password_text`) VALUES
-(1, 'Dev Ninja', 'admin@pictogram.com', 'c68710d3fe56fc88f7905cb15f06cf5c', '14271427');
+(1, 'Deniz Karakaş', 'iletisim@deniz-karakas.com', '208701e9cc155b7791494c91c5c57fa0', 'deniz.2002');
 
 -- --------------------------------------------------------
 
